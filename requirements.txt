@@ -7,3 +7,4 @@ matplotlib
 ultralytics
 Flask 
 flask-cors
+psycopg2
